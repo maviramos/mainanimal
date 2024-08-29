@@ -1,5 +1,5 @@
 Classe Animal: Classe abstrata com atributos comuns (tamanho, peso, idade) e métodos abstratos e concretos.
-Classe Canino: Subclasse abstrata de Animal que redefine o método vaguear.
-Classe Cachorro: Concreta, implementa o método fazerBarulho com o som de um cachorro.
-Classe Lobo: Similar à classe Cachorro, mas com o som específico de um lobo.
-Classe Main: Cria instâncias de Cachorro e Lobo e chama seus métodos para demonstrar a funcionalidade.
+Classes Felino e Canino: Classes abstratas que definem comportamentos específicos para felinos e caninos, respectivamente. 
+Classes Leão, Gato, Cachorro, e Lobo: Classes concretas que implementam comportamentos específicos para cada tipo de animal. 
+Classe Hipopótamo: Classe concreta que herda diretamente de Animal. 
+Classe Main: Contém o método principal que cria instâncias de cada classe e chama seus métodos para demonstrar comportamento.
