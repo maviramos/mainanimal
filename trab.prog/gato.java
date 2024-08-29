@@ -8,4 +8,3 @@ class Gato extends Felino {
         System.out.println("Gato brincando com bola de lã");
     }
 }
-}
