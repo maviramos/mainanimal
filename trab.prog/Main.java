@@ -36,3 +36,11 @@ public class Main {
         hipopotamo.nadar();
     }
 }
+
+
+// comentarios
+// Classe Animal: Classe abstrata com atributos comuns (tamanho, peso, idade) e métodos abstratos e concretos.
+//Classes Felino e Canino: Classes abstratas que definem comportamentos específicos para felinos e caninos, respectivamente. 
+//Classes Leão, Gato, Cachorro, e Lobo: Classes concretas que implementam comportamentos específicos para cada tipo de animal. 
+//Classe Hipopótamo: Classe concreta que herda diretamente de Animal. 
+// Classe Main: Contém o método principal que cria instâncias de cada classe e chama seus métodos para demonstrar comportamento.
